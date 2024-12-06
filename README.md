@@ -3,7 +3,7 @@
 I'm **Hoetzenofer**, a young programmer from Austria.
 My favorite languages are C++, C, Python and x86 Assembly.
 Due to my current school situation, I usually don't have that much time for programming, but I still try to do my best :)
----
+
 **My current projects**
 - Raspberry PI Greenhouse
 - 32-Bit Protected Mode Bootloader which loads a Kernel
