@@ -18,6 +18,7 @@ Due to my current school situation, I usually don't have that much time for prog
 **My GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoetzenofer&show_icons=true&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoetzenofer&layout=compact&theme=dark)
 
 <!--
