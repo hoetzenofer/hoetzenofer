@@ -21,9 +21,6 @@ Due to my current school situation, I usually don't have that much time for prog
 
 ![GitHub Weekly Stats](https://github-readme-streak-stats.herokuapp.com/?user=hoetzenofer&theme=dark)
 
-![Compact Stats](https://github-readme-stats.vercel.app/api?username=hoetzenofer&show_icons=true&theme=dark&count_private=true&hide=contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoetzenofer&layout=compact&theme=dark)
-
 <!--
 **hoetzenofer/hoetzenofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
