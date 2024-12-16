@@ -20,6 +20,8 @@ Due to my current school situation, I usually don't have that much time for prog
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoetzenofer&theme=dark)
 
 ![GitHub Weekly Stats](https://github-readme-streak-stats.herokuapp.com/?user=hoetzenofer&theme=dark)
+
+![Compact Stats](https://github-readme-stats.vercel.app/api?username=hoetzenofer&show_icons=true&theme=dark&count_private=true&hide=contribs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoetzenofer&layout=compact&theme=dark)
 
 <!--
