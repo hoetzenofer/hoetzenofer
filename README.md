@@ -9,6 +9,8 @@ Due to my current school situation, I usually don't have that much time for prog
 - Smart-Room System with Raspberry PI
 - 32-Bit Protected Mode OS with Bootloader and Kernel
 
+---
+
 **My GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoetzenofer&show_icons=true&theme=dark)
