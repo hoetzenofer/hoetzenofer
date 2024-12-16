@@ -14,6 +14,12 @@ Due to my current school situation, I usually don't have that much time for prog
 
 ---
 
+**🌐 Socials**  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/hoetzenofer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hoetzenofer)
+
+---
+
 My favorite languages are _C++, C, Python and x86 Assembly_. However, I mainly write in Python.
 I also know how to program in _C#_, I don't really like it tho.
 Sometimes I write a bit of _Java_ (only for Minecraft Mods) and _Lua_ (only for my NVIM Config).
