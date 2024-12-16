@@ -7,7 +7,7 @@ Due to my current school situation, I usually don't have that much time for prog
 **My current projects**
 - Raspberry PI Greenhouse
 - Smart-Room System with Raspberry PI
-- 32-Bit Protected Mode Bootloader which loads a Kernel
+- 32-Bit Protected Mode OS with Bootloader and Kernel
 
 <!--
 **hoetzenofer/hoetzenofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
