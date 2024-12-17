@@ -34,7 +34,7 @@ As you can see, I use Python for many of my smaller projects, since it's quick a
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoetzenofer&theme=dark)
 
-![GitHub Weekly Stats](https://github-readme-streak-stats.herokuapp.com/?user=hoetzenofer&theme=dark)
+![GitHub Streak Stats](https://github-readme-streak-stats.vercel.app/?user=hoetzenofer&theme=dark)
 
 <!--
 **hoetzenofer/hoetzenofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
