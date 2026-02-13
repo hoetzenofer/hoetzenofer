@@ -7,11 +7,12 @@ Due to my current school situation, I usually don't have that much time for prog
 
 ---
 
-**My current projects**
-- Raspberry PI Greenhouse
-- Smart-Room System with Raspberry PI
+**Projects**
+- [ finished ] Raspberry PI Greenhouse
+- [ finished ] Smart-Room System with Jetson Nano
 - 32-Bit Protected Mode OS with Bootloader and Kernel
-
+- [ finished ] 8-Bit CPU
+- 16-Bit CPU
 ---
 
 My favorite languages are _C++, C, Python and x86 Assembly_. However, I mainly write in Python.
