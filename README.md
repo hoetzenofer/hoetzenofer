@@ -3,7 +3,7 @@
 ---
 
 I'm **Hoetzenofer**, a young programmer from Austria.
-Due to my current school situation, I usually don't have that much time for programming, but I still try to do my best :)
+Due to my current school situation, I usually don't have that much time for programming, but I still try my best.
 
 ---
 
@@ -12,14 +12,11 @@ Due to my current school situation, I usually don't have that much time for prog
 - [ finished ] Smart-Room System with Jetson Nano
 - 32-Bit Protected Mode OS with Bootloader and Kernel
 - [ finished ] 8-Bit CPU
-- 16-Bit CPU
+- Automatic Growing Station (ESP32)
+
 ---
 
-My favorite languages are _C++, C, Python and x86 Assembly_. However, I mainly write in Python.
-I also know how to program in _C#_, I don't really like it tho.
-Sometimes I write a bit of _Java_ (only for Minecraft Mods) and _Lua_ (only for my NVIM Config).
-
-As you can see, I use Python for many of my smaller projects, since it's quick and easy to write and great for debugging.
+My favorite languages are C++ and x86 Assembly. For small programs I like to use Python. I also know how to program in _C#_, I don't really use it very often though. Sometimes I write a bit of Java (only for Minecraft Mods).
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoetzenofer&layout=compact&theme=dark)
 
