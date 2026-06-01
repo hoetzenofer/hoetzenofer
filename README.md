@@ -9,7 +9,7 @@ Due to my current school situation, I usually don't have that much time for prog
 
 **Projects**
 - [ finished ] Raspberry PI Greenhouse
-- [ finished ] Smart-Room System with Jetson Nano
+- Smart-Room System with Jetson Nano
 - 32-Bit Protected Mode OS with Bootloader and Kernel
 - [ finished ] 8-Bit CPU
 - Automatic Growing Station (ESP32)
