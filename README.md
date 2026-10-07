@@ -2,17 +2,13 @@
 
 ---
 
-I'm **Hoetzenofer**, a young programmer from Austria.
+I'm Hötzi, a young programmer from Austria.
 Due to my current school situation, I usually don't have that much time for programming, but I still try my best.
 
 ---
 
-**Projects**
-- [ finished ] Raspberry PI Greenhouse
-- Smart-Room System with Jetson Nano
-- 32-Bit Protected Mode OS with Bootloader and Kernel
-- [ finished ] 8-Bit CPU
-- Automatic Growing Station (ESP32)
+**Current Projects**
+- MQTT & REST-API Smart Room System
 
 ---
 
