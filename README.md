@@ -7,9 +7,9 @@ School keeps me pretty busy, so my projects move slowly, but they do move.
 
 | Project | What it is | Tech |
 |---|---|---|
-| [**Limbo-8**](https://github.com/hoetzenofer/Limbo-8) | Home-built 8-bit computer made from 74HC logic chips, EEPROMs and SRAM. Microcoded CPU with 77 instructions, designed in Logisim Evolution first, breadboard build later. | Logisim · Assembly · Python |
-| [**AsciiScape**](https://github.com/hoetzenofer/asciiscape) | Modular ASCII 3D engine for Wallpaper Engine. Scenes are made of Lua layers (tree, snow, ornaments, …) that anyone can write. *Early stage.* | C++ · Lua · CMake |
-| **Smart Room System** | Smart room setup with MQTT and a REST API. | MQTT · REST |
+| [**Limbo-8**](https://github.com/hoetzenofer/Limbo-8) | Home-built 8-bit computer made from 74HC logic chips, EEPROMs and SRAM. Microcoded CPU with 77 instructions, designed in Logisim Evolution first, breadboard build later. | Logisim, Assembly, Python |
+| [**AsciiScape**](https://github.com/hoetzenofer/asciiscape) | Modular ASCII 3D engine for Wallpaper Engine. Scenes are made of Lua layers (tree, snow, ornaments, …) that anyone can write. | C++, Lua, CMake |
+| **Smart Room System** | Smart room setup with MQTT and a REST API. | MQTT, REST |
 
 ## 🛠️ Languages
 
