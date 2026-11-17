@@ -1,46 +1,30 @@
-## Hey there!
+# Hey, I'm Hötzi!
 
----
+Young programmer from Austria who likes to work close to the hardware – from x86 assembly all the way down to a CPU built from logic chips.
+School keeps me pretty busy, so my projects move slowly, but they do move.
 
-I'm Hötzi, a young programmer from Austria.
-Due to my current school situation, I usually don't have that much time for programming, but I still try my best.
+## Current projects
 
----
+| Project | What it is | Tech |
+|---|---|---|
+| [**Limbo-8**](https://github.com/hoetzenofer/Limbo-8) | Home-built 8-bit computer made from 74HC logic chips, EEPROMs and SRAM. Microcoded CPU with 77 instructions, designed in Logisim Evolution first, breadboard build later. | Logisim · Assembly · Python |
+| [**asciiscape**](https://github.com/hoetzenofer/asciiscape) | Modular ASCII 3D engine for Wallpaper Engine. Scenes are made of Lua layers (tree, snow, ornaments, …) that anyone can write. *Early stage.* | C++ · Lua · CMake |
+| **Smart Room System** | Smart room setup with MQTT and a REST API. | MQTT · REST |
 
-**Current Projects**
-- MQTT & REST-API Smart Room System
+## 🛠️ Languages
 
----
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-My favorite languages are C++ and x86 Assembly. For small programs I like to use Python. I also know how to program in _C#_, I don't really use it very often though. Sometimes I write a bit of Java (only for Minecraft Mods).
+C++ and x86 Assembly are my favorites, Python is for quick scripts.
+C# and Java (mostly Minecraft mods) when a project needs them.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoetzenofer&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoetzenofer&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 
----
+## Find me
 
-**🌐 Socials**  
-- [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/hoetzenofer)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hoetzenofer)
-
----
-
-**My GitHub Stats**
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoetzenofer&theme=dark)
-
-![GitHub Weekly Stats](https://github-readme-streak-stats.herokuapp.com/?user=hoetzenofer&theme=dark)
-
-<!--
-**hoetzenofer/hoetzenofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hoetzenofer)
