@@ -1,7 +1,7 @@
 # Hey, I'm Hötzi!
 
-Young programmer from Austria who likes to work close to the hardware – from x86 assembly all the way down to a CPU built from logic chips.
-School keeps me pretty busy, so my projects move slowly, but they do move.
+I'm a young programmer from Austria who likes to work close to hardware - from x86 assembly all the way down to a CPU built from logic chips.
+School keeps me pretty busy, so my projects move slowly, but still - they do move.
 
 ## Current projects
 
