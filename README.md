@@ -16,12 +16,9 @@ School keeps me pretty busy, so my projects move slowly, but they do move.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 C++ and x86 Assembly are my favorites, Python is for quick scripts.
-C# and Java (mostly Minecraft mods) when a project needs them.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoetzenofer&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 
