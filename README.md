@@ -16,7 +16,6 @@ School keeps me pretty busy, so my projects move slowly, but still - they do mov
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
 C++ and x86 Assembly are my favorites, Python is for quick scripts.
 
